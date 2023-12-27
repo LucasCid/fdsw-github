@@ -20,6 +20,11 @@ body {
   background-position: center;
 }
 
+.image-top{
+  width: 100%;
+  
+}
+
 /* Contacto */
 
 #Contacto form label {
